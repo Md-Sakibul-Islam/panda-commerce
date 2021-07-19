@@ -9,7 +9,7 @@ body{
 .price-color{
     color: rgb(245, 76, 132);
 }
-.btn-color{
+.buy-now{
     background-image: linear-gradient(45deg,rgb(204, 121, 135),rgb(235, 79, 157));
     color: white;
     border: 0;
@@ -50,3 +50,12 @@ catagories style start
 catagories style end 
 -----------------------------
  */
+
+ .card{
+     box-shadow: 10px 10px 30px lightgray;
+     border: 0;
+ }
+ .contact-us{
+     background-color: #FCEAE8;
+     padding: 10px 20px;
+ }
