@@ -1,19 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-body{
-    font-family: 'Poppins', sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
 }
-.carousel-portion{
-    background-color: #FCEAE8;
+.carousel-portion {
+  background-color: #fceae8;
 }
-.price-color{
-    color: rgb(245, 76, 132);
+.price-color {
+  color: rgb(245, 76, 132);
 }
-.buy-now{
-    background-image: linear-gradient(45deg,rgb(204, 121, 135),rgb(235, 79, 157));
-    color: white;
-    border: 0;
-    padding: 8px 24px;
+.buy-now {
+  background-image: linear-gradient(
+    45deg,
+    rgb(204, 121, 135),
+    rgb(235, 79, 157)
+  );
+  color: white;
+  border: 0;
+  padding: 8px 24px;
 }
 
 /* 
@@ -21,29 +25,31 @@ body{
 catagories style start 
 -----------------------------
  */
-.watch{
-    background-color: orange;
+.watch {
+  background-color: orange;
 }
-.catgories-color{
-    color: white;
+.catgories-color {
+  color: white;
 }
-.cart-img{
-    width: 100px;
+.cart-img {
+  width: 100px;
 }
-.cart-one{
-    background-color: orange;
+.cart-one {
+  background-color: orange;
 }
-.cart-two{
-    background-color: purple;
+.cart-two {
+  background-color: purple;
 }
-.cart-three{
-    background-color: blue;
+.cart-three {
+  background-color: blue;
 }
-.cart-one, .cart-two, .cart-three{
-    padding: 0 10px;
+.cart-one,
+.cart-two,
+.cart-three {
+  padding: 0 10px;
 }
-.catagories-title{
-    color: white;
+.catagories-title {
+  color: white;
 }
 /* 
 ----------------------------
@@ -51,14 +57,14 @@ catagories style end
 -----------------------------
  */
 
- .card{
-     box-shadow: 10px 10px 30px lightgray;
-     border: 0;
- }
+.card {
+  box-shadow: 10px 10px 30px lightgray;
+  border: 0;
+}
 
- /* contact part style start  */
- .contact-us{
-     background-color: #FCEAE8;
-     padding: 40px 20px;
- }
- /* contact part style end  */
+/* contact part style start  */
+.contact-us {
+  background-color: #fceae8;
+  padding: 40px 20px;
+}
+/* contact part style end  */
