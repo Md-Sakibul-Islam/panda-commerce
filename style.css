@@ -15,3 +15,38 @@ body{
     border: 0;
     padding: 8px 24px;
 }
+
+/* 
+----------------------------
+catagories style start 
+-----------------------------
+ */
+.watch{
+    background-color: orange;
+}
+.catgories-color{
+    color: white;
+}
+.cart-img{
+    width: 100px;
+}
+.cart-one{
+    background-color: orange;
+}
+.cart-two{
+    background-color: purple;
+}
+.cart-three{
+    background-color: blue;
+}
+.cart-one, .cart-two, .cart-three{
+    padding: 0 10px;
+}
+.catagories-title{
+    color: white;
+}
+/* 
+----------------------------
+catagories style end 
+-----------------------------
+ */
