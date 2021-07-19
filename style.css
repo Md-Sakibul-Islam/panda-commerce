@@ -55,7 +55,10 @@ catagories style end
      box-shadow: 10px 10px 30px lightgray;
      border: 0;
  }
+
+ /* contact part style start  */
  .contact-us{
      background-color: #FCEAE8;
-     padding: 10px 20px;
+     padding: 40px 20px;
  }
+ /* contact part style end  */
